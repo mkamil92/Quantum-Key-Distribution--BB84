@@ -14,6 +14,8 @@
  how it is considered secure, and how it can be applied in real-world scenarios. The main
  goal of this milestone is to build a strong theoretical understanding of the protocol before
  moving to the implementation phase, as understanding theoretical concepts is essential for
- implementation milestones
+ implementation milestones.
 -----------------------------------------------------------------------------------------------------------------------
-### MileStone 1 Recording Link:
+## Milestone 1 Recording Link:
+https://drive.google.com/file/d/1K9r6aqygVY5pr-N_CJzFnJ8W8TfxAIo7/view?usp=sharing
+
