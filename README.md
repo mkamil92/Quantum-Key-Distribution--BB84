@@ -15,3 +15,5 @@
  goal of this milestone is to build a strong theoretical understanding of the protocol before
  moving to the implementation phase, as understanding theoretical concepts is essential for
  implementation milestones
+-----------------------------------------------------------------------------------------------------------------------
+### MileStone 1 Recording Link:
