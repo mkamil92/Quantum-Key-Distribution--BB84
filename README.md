@@ -1,6 +1,6 @@
 # Quantum Key Distribution Using the BB84 Protocol: A Simulation-Based Approach
 
- In the modern digital world, the security of data and communication has become a critical
+  In the modern digital world, the security of data and communication has become a critical
  concern. People exchange personal, financial, and sensitive information over the internet every
  day. Today’s encryption systems mostly rely on mathematical algorithms that are believed
  to be hard to break. However, with the rise of quantum computing, these systems could
@@ -18,4 +18,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 ## Milestone 1 Recording Link:
 https://drive.google.com/file/d/1K9r6aqygVY5pr-N_CJzFnJ8W8TfxAIo7/view?usp=sharing
+
+## Milestone 2 Recording Link: 
+https://drive.google.com/file/d/19TJkf3wAav5FsHtLSw36EoIkKc_5NW6F/view?usp=sharing
 
